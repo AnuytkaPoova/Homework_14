@@ -26,14 +26,6 @@ public class App {
         /** задание 1 */
         MyArray2 arr2 = new MyArray2(new int[]{1, 2, 4, 4, 2, 3, 4, 1, 7});
         arr2.checkNum(1,4);
-
-
-
     }
-
-
-
-
-
 
 }
