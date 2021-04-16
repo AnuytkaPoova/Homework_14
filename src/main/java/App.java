@@ -12,7 +12,6 @@ public class App {
         } catch (RuntimeException e){
             e.printStackTrace();
         }
-
         //2-й вариант создания массива
         MyArray1 a = new MyArray1();
         int [] b = {1, 2, 4, 4, 2, 3, 4, 1, 7};
